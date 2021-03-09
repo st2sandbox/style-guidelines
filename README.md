@@ -4,6 +4,9 @@ This repo has logos and other information to assist in creating StackStorm-relat
 
 ## Logos
 
+![Logo and Word Mark 572x136](logos/logo-and-word-mark-572x136.png)
+
+Check out [logos](logos) for more combinations of logo and word mark.
 
 ## Colors
 
