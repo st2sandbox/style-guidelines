@@ -10,6 +10,8 @@ Check out [logos](logos) for more combinations of logo and word mark.
 
 ## Colors
 
+- Orange `#F58220` (was `#FF8300`)
+- Grey `#58585A` (was `#4B4A4F`, `#55565A`)
 
 ## Background
 
