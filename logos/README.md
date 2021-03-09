@@ -3,7 +3,7 @@
 ![Logo favicon](favicon.ico)
 ![Logo SVG](logo.svg)
 ![Logo 48x48 (white background)](logo-white-background-48x48.png)
-![Logo 105x104 (white background)](logo-105x104.png)
+![Logo 105x104 (white background)](logo-white-background-105x104.png)
 ![Logo 180x180 (transparent background)](logo-180x180.png)
 
 # Word Mark
