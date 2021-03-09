@@ -15,7 +15,7 @@ Check out [logos](logos) for more combinations of logo and word mark.
 
 ## Background
 
-This repo is designed like OpsDroid/style-guidelines.
+This repo is designed like [OpsDroid/style-guidelines](https://github.com/opsdroid/style-guidelines).
 
 This is in the st2sandbox to gather feedback and see if this would be desirable.
 The goal is to transfer this repo to the StackStorm organization if people like the idea.
